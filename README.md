@@ -5,10 +5,6 @@
 ---
 
 - 🔭 Software Engineer, skilled in using programming languages such as HTML, CSS, JavaScript, React, Angular and Node Js to create various features for websites and web applications. I also have experience in developing and managing NOSQL and SQL databases to thrive in a collaborative environment.
----
-🧰 Toolbox
-
-### <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
 
 ---
 
